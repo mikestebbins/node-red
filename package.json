@@ -54,7 +54,9 @@
         "node-red-node-feedparser":"0.1.*",
         "node-red-node-email":"0.1.*",
         "node-red-node-twitter":"0.1.*",
-        "node-red-node-rbe":"0.1.*"
+        "node-red-node-rbe":"0.1.*",
+        "node-red-node-mongodb":"0.0.2",
+        "node-red-contrib-mongodb2":"0.0.6"
     },
     "optionalDependencies": {
         "node-red-node-serialport":"0.0.*",
